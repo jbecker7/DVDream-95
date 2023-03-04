@@ -1,0 +1,55 @@
+canvas {
+  margin: auto;
+  display: block;
+}
+
+body {
+  margin: 0;
+}
+
+body {
+  background-color: black;
+}
+.aesthetic-effect-crt {
+  display: flex;
+  justify-content: center;
+}
+.aesthetic-windows-95-modal {
+  margin: 20px auto;
+}
+.aesthetic-windows-95-modal-title-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.aesthetic-windows-95-modal-title-bar-text {
+  margin-left: 20px;
+}
+.aesthetic-windows-95-modal-content {
+  text-align: center;
+}
+.canvas-container {
+  margin-top: 10px;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid white;
+  background-image: url('../assets/background.png');
+  background-size: cover;
+  background-position: center;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+#audio {
+  display: none;
+}
+.aesthetic-windows-95-button {
+  width: 100px;
+}
+.aesthetic-windows-95-button-title-bar button:first-child {
+  width: 80px;
+}
