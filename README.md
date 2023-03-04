@@ -1,5 +1,5 @@
 
-# 【ＤＶＤｒｅａｍ　９５】
+# DVDream 95
 
 <img src="https://user-images.githubusercontent.com/76632760/222923761-62d5a4e1-2292-49e6-b2f4-3e14b7b3b55e.jpg" width="65%" alt="centered image">
 
